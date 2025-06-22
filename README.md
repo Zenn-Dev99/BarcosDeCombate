@@ -38,7 +38,7 @@ La gestión de barcos de guerra puede volverse compleja cuando se requiere mante
 
 ##### Requisitos
 - Java 11 o superior
-- Editor o IDE Java (opcional): Eclipse, IntelliJ, VS Code, etc.
+- NetBeans 20.
 
 ##### Compilar desde terminal
 ```bash
